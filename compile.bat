@@ -7,5 +7,6 @@ cls
 java Main
 
 echo.
+echo.
 echo Program finished. Press any key to close this window...
 pause >nul
